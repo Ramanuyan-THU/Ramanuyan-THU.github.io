@@ -11,7 +11,7 @@ B.S. Information Management and Information System. NorthEast Foresty University
 
 
 **RESEARCH INTEREST**     
-Mathematics Optimization, Operations Research, Big Data, Scheduling Optimization, Logistics and Supply Chains.    
+Mathematical Optimization, Operations Research, Big Data, Scheduling Optimization, Logistics and Supply Chains.    
 
 **PUBLICATIONS**    
 • Lei Liu, Canrong Zhang. A branch and bound algorithm for the robust parall machine scheduling with sequence-dependent setup time.       
