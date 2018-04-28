@@ -10,7 +10,7 @@ M.S. Logistic Engineering, Inductrial Engineering, Tsinghua University.   2017.
 B.S. Information Management and Information System. NorthEast Foresty University.  2013.   
 
 
-**RESEARCH INTEREST**   
+**RESEARCH INTEREST**     
 Mathematics Optimization, Operations Research, Big Data, Scheduling Optimization, Logistics and Supply Chains.    
 
 **PUBLICATIONS**    
